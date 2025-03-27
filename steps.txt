@@ -24,3 +24,5 @@ tsconfig.json file->
         "src/**/*"
     ]
 }
+
+ npm i -D @types/express @types/body-parser @types/cookie-parser @types/compression @types/cors
